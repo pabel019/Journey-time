@@ -87,3 +87,288 @@ ul {
     display: inline;
     font-size: 35px;
 }
+
+.icon-part i {
+    font-size: 35px;
+    color: #484848;
+}
+
+.journey {
+    width: 100%;
+}
+
+.left-part {
+    width: 40%;
+    text-align: left;
+}
+
+.left-part .text {
+    font-size: 50px;
+    line-height: 60px;
+    font-family: 'Roboto', sans-serif;
+    color: #484848;
+    padding: 20px 0px;
+    line-break: 40px;
+}
+
+.left-part .para {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    width: 100%;
+    float: left;
+    margin: 20px 0px;
+}
+
+.btn a,
+.fa {
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn .fa {
+    margin-left: 15px;
+}
+
+.btn:hover a {
+    background: #000;
+    color: #fff;
+}
+
+.left-part .button {
+    font-size: 25px;
+    line-height: 50px;
+    background: #da1f4c;
+    padding: 8px 15px;
+    border-radius: 25px;
+    transition: 0.8s;
+}
+
+.button-2 {
+    float: right;
+    text-align: right;
+}
+
+.right-part {
+    width: 100%;
+    text-align: center;
+}
+
+.right-part img {
+    border: 3px solid #d8cbce;
+    border-radius: 100%;
+    padding: 30px;
+    margin-top: -270px;
+}
+
+.brand {
+    width: 100%;
+    float: left;
+    margin-top: 100px;
+}
+
+.brand-icon {
+    text-align: center;
+    font-size: 70px;
+}
+
+.brand-icon a {
+    display: inline-block;
+}
+
+.brand-icon img {
+    font-size: 50px;
+    padding: 10px;
+    margin-right: 70px;
+}
+
+.collection {
+    width: 100%;
+    float: left;
+    padding: 50px 0px;
+}
+
+.collection h1 {
+    font-size: 50px;
+    margin: 100px 0px;
+    font-weight: 700;
+}
+
+.col-4 {
+    float: left;
+    width: 30.33%;
+    height: 70%;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.4s;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.col-4:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.col-4 img {
+    width: 430px;
+    padding: 20px 0px;
+}
+
+.col-4 h1 {
+    font-size: 40px;
+    color: #201f1f;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 25px;
+    font-weight: 600;
+}
+
+.col-4 h2 {
+    font-size: 40px;
+    color: #201f1f;
+    text-align: left;
+    margin-top: -70px;
+    margin-left: 25px;
+    font-weight: 400;
+}
+
+.col-4 h3 {
+    font-size: 25px;
+    list-style: 35px;
+}
+
+.star-icon {
+    width: 100%;
+    float: left;
+    padding: 30px 0px;
+    margin-right: 100px;
+    /* position: absolute; */
+    right: 38%;
+    bottom: -25px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+.star-icon a {
+    display: inline-block;
+}
+
+.star-icon i {
+    display: inline;
+    font-size: 15px;
+    color: #FB8200;
+    text-align: left;
+}
+
+.star-icon span {
+    font-size: 16px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.down-text {
+    text-align: left;
+    margin-left: 24px;
+    font-size: 30px;
+    line-height: 40px;
+    color: #898994;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+}
+
+.btn-2 {
+    width: 100%;
+    float: right;
+    margin-right: 93px;
+}
+
+.btn-2 a {
+    font-size: 25px;
+    line-height: 50px;
+    background: #da1f4c;
+    padding: 9px 15px;
+    border-radius: 25px;
+    color: #fff;
+    transition: 0.8s;
+}
+
+.btn-2:hover a {
+    background: #000;
+    color: #fff;
+}
+
+.btn-2 i {
+    margin-left: 10px;
+}
+
+.feature {
+    width: 100%;
+    float: left;
+}
+
+.col-6 {
+    width: 50%;
+    float: left;
+    margin: 100px 0px;
+}
+
+.left {
+    width: 100%;
+}
+
+.left img {
+    width: 560px;
+    height: 400px;
+}
+
+.right h1 {
+    width: 800px;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #0A0826;
+    padding: 30px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.right p {
+    width: 510px;
+    font-size: 16px;
+    text-align: left;
+    line-height: 26px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 30px;
+    color: #6C6C6C;
+    margin-left: 26px;
+}
+
+.right a {
+    font-size: 25px;
+    line-height: 50px;
+    background: #da1f4c;
+    padding: 14px 15px;
+    border-radius: 25px;
+    color: #fff;
+    transition: 0.8s;
+}
+
+.right:hover a {
+    background: #000;
+    color: #fff;
+}
+
+.right i {
+    margin-left: 10px;
+}
+
+.button-3 {
+    text-align: left;
+    margin-left: 21px;
+}
