@@ -80,7 +80,8 @@ ul {
 .icon-part {
     width: 10%;
     display: inline-block;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
+    margin-top: -20px;
 }
 
 .icon-part li {
@@ -146,6 +147,7 @@ ul {
     padding: 8px 15px;
     border-radius: 25px;
     transition: 0.8s;
+    cursor: pointer;
 }
 
 .button-2 {
@@ -304,6 +306,7 @@ ul {
 
 .btn-2 i {
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .feature {
@@ -366,9 +369,61 @@ ul {
 
 .right i {
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .button-3 {
     text-align: left;
     margin-left: 21px;
+}
+
+.footer {
+    width: 100%;
+    float: left;
+    background: #0A0826;
+    height: 300px;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+    padding: 60px 0px 20px 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer h3 {
+    font-size: 25px;
+    color: #fff;
+    line-height: 35px;
+}
+
+.footer span {
+    font-size: 25px;
+    color: #fff;
+    line-height: 35px;
+}
+
+.footer-icon {
+    width: 100%;
+}
+
+.footer-icon li {
+    display: inline-block;
+    margin: 20px 20px 0px 0px;
+}
+
+.footer-icon i {
+    font-size: 25px;
+    background: #000;
+    border: 1px solid #000;
+    border-radius: 100%;
+    padding: 14px;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.footer-icon i:hover {
+    background: transparent;
 }
