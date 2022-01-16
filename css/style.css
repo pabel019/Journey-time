@@ -134,7 +134,7 @@ ul {
     margin-left: 15px;
 }
 
-.btn:hover a {
+.btn a:hover {
     background: #000;
     color: #fff;
 }
@@ -297,7 +297,7 @@ ul {
     transition: 0.8s;
 }
 
-.btn-2:hover a {
+.btn-2 a:hover {
     background: #000;
     color: #fff;
 }
@@ -359,7 +359,7 @@ ul {
     transition: 0.8s;
 }
 
-.right:hover a {
+.right a:hover {
     background: #000;
     color: #fff;
 }
