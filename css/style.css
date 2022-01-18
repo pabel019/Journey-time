@@ -232,7 +232,7 @@ ul {
 .star-icon i {
     display: inline;
     font-size: 15px;
-    color: #FB8200;
+    color: #FB8200!important;
     text-align: left;
 }
 
